@@ -1,0 +1,35 @@
+.spacing {
+    margin: 20px;
+}
+
+.center-block {
+    width: 50%;
+}
+
+button {
+    padding: 7px;
+}
+
+#button1 {
+    width: 20%;
+}
+
+#button2 {
+    width: 20%;
+}
+
+#results {
+    margin: 0 0 0 30px;
+    ;
+}
+
+.searchedTextbox {
+    width: 20%;
+    position: static;
+    margin: 1.5% 0 0 1%;
+}
+
+img {
+    display: block;
+    margin: 2% auto;
+}
